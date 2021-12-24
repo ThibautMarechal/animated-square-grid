@@ -34,9 +34,3 @@ body, html {
   align-items: center;
   background-color: palegreen;
 }
-.inner-block {
-  border-radius: 20px;
-  width: calc(var(--paper-size) / 7);
-  height: calc(var(--paper-size) / 7);
-  background-color: slateblue;
-}
